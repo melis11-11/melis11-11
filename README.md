@@ -1,4 +1,4 @@
-# Hi, I'm Melis Alparslan!
+# Hey, I'm Melis Alparslan :)
 
 I'm a Computer Science student at the University of Rochester interested in software engineering, product development, and building technology that actually solves problems.
 
